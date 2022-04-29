@@ -50,10 +50,8 @@ class MainActivity : AppCompatActivity() {
                         getMyData()
                     }
                 }
-
             }
         })
-
     }
 
     private fun setAdapter() {
